@@ -11,7 +11,6 @@ The following instructions will demonstrate how to download and install the Serv
 1. Jenkins 2.3+ instance;
 2. Enterprise DevOps application installed in your ServiceNow instance.
 
-### Download
+### Download and installation
 
-1 Go to your ServiceNow instance;
-2 
+See the release notes for step-by-step download/install instructions for your release.
